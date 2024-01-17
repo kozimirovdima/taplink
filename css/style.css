@@ -8,6 +8,7 @@ body {
   font-family: "Inter", sans-serif;
 }
 .page-wrapper {
+  overflow: hidden;
   max-width: 390px;
   background-color: #C8C8C8;
   margin: auto;
