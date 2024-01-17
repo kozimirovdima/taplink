@@ -39,3 +39,42 @@ body {
   font-weight: 700;
   line-height: normal;
 }
+.user {
+  border-radius: 20px;
+  background: #D9D9D9;
+  margin-top: -59px;
+  box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+.user-avatar {
+  margin-top: -42px;
+  border-radius: 68px;
+  border: 3px solid #FFF;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 68px;
+  height: 68px;
+}
+.container {
+  max-width: 300px;
+  background-color: #fff;
+  margin: auto;
+  border-radius: 20px;
+}
+.user-text {
+  color: #000;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.user-desc {
+  color: #534949;
+  font-family: Inter;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding-bottom: 20px;
+}
